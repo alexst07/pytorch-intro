@@ -1,7 +1,7 @@
 # Introdução ao PyTorch
 Tutorial de introdução ao framework de deep learning PyTorch.\
 Obs: Esse tutorial está apenas no inicio, e ainda pode conter vários erros (principalmente gramaticais), que espero ir acertando com o tempo.
-## Indice
+## Índice
 * [Tensores](https://github.com/alexst07/pytorch-intro/blob/master/Tensores.ipynb)
 * [Representação dos dados](https://github.com/alexst07/pytorch-intro/blob/master/data.ipynb)
 * [Variáveis](https://github.com/alexst07/pytorch-intro/blob/master/Variaveis.ipynb)
